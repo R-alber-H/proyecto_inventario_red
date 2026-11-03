@@ -1,0 +1,5 @@
+Hostname,Dirección IP,Plataforma,Estado
+sw1,10.10.20.175,C9KV-UADP-8P,Reachable
+sw2,10.10.20.176,C9KV-UADP-8P,Reachable
+sw3,10.10.20.177,C9KV-UADP-8P,Reachable
+sw4,10.10.20.178,C9KV-UADP-8P,Reachable

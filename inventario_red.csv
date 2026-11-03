@@ -1,0 +1,5 @@
+Hostname,IP,Estado,Versión,Modelo,SerialNumber,Uptime
+sw1,10.10.20.175,Reachable,17.12.1prd9,C9KV-UADP-8P,CML12345UAD,"283 days, 6:05:27.00"
+sw2,10.10.20.176,Reachable,17.12.1prd9,C9KV-UADP-8P,CML12345,"283 days, 6:05:16.00"
+sw3,10.10.20.177,Reachable,17.12.1prd9,C9KV-UADP-8P,CML12345ABC,"283 days, 6:05:23.00"
+sw4,10.10.20.178,Reachable,17.12.1prd9,C9KV-UADP-8P,CML54321,"283 days, 6:05:12.00"
